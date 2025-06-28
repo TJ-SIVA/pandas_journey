@@ -42,3 +42,26 @@ I’m building this to:
 | Final Challenges | ✅ Completed| 🚀 Challenger |
 
 ---
+
+---
+
+## 💡 Inspiration
+
+This learning path is influenced by:
+- [Pandas Official Docs](https://pandas.pydata.org/)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- YouTube: Codebasics, Corey Schafer, Luke Barousse
+
+---
+
+## 📬 Contact
+
+**Sivakumar Devaraj**  
+📧 youremail@example.com  
+📌 India  
+🧠 Learning & Sharing with: `#MLwithZUKO`
+
+
+---
+
+> *“You don’t truly understand something unless you can explain it simply.” – Albert Einstein*
