@@ -24,10 +24,9 @@ I’m building this to:
 ## 🛠️ Tools Used
 
 - Python 3.x
-- Jupyter Notebook / Google Colab
+- Google Colab
 - Pandas
-- NumPy (supporting operations)
-- Matplotlib / Seaborn (for visual context)
+- NumPy
 
 ---
 
@@ -40,6 +39,6 @@ I’m building this to:
 | Aggregations & GroupBy | ✅ Completed | 🥉 Group Guru |
 | Time Series | ✅ Completed | ⏳ Time Tamer |
 | MultiIndex & Advanced Ops | ✅ Completed | 🔥 MultiIndex Master |
-| Final Challenges | ✅ Completed | 🚀 Challenger |
+| Final Challenges | ⏳ In Progress | 🚀 Challenger |
 
 ---
