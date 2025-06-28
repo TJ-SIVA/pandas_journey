@@ -43,3 +43,11 @@ I’m building this to:
 | Final Challenges | ✅ Completed | 🚀 Challenger |
 
 ---
+## Road Map 
+This repo tracks my Pandas learning journey, covering:
+• DataFrame basics 
+• Indexing & selection
+• GroupBy & aggregation
+• Merging/joining tables
+• Data visualization with Pandas/Matplotlib
+---
